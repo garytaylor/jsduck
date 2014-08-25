@@ -1,3 +1,8 @@
+DO NOT USE THIS FORK (YET)
+It is a work in progress for using JSDuck with ruby code - I may be setting my targets 
+a bit high, but no harm in trying.
+JSDuck is a fabulous tool - the output is very clean, easy to find things etc..  I wanted the same for my ruby code and then in the future, others will want the same from their Java/Python code etc.. etc..
+
 ![JSDuck](https://raw.github.com/senchalabs/jsduck/master/opt/jsduck-logo-dark.png)
 ===================================================================================
 
